@@ -1,0 +1,7 @@
+Creating User Endpoint (POST /users/)
+
+Delete User Endpoint (DELETE /users/{username})
+
+Get User Data Based on Role: (GET /user-data/)
+
+Get all the value grouped by id,group,dat: (GET /aggregated_data/)
